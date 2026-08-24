@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0066-plus-one) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
