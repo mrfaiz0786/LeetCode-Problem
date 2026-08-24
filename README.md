@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
 | ------- |
