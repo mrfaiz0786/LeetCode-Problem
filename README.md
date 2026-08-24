@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0136-single-number) |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
