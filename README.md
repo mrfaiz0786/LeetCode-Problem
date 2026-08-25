@@ -14,18 +14,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -63,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0125-valid-palindrome) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
