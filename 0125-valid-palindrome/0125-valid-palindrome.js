@@ -8,6 +8,11 @@ var isPalindrome = function (s) {
 
     const isAlnum = (ch) => /[a-zA-Z0-9]/.test(ch);
 
+    // let str = "";
+    // for(let i=0;i<str.length;i++){
+    //     if(str>"A")
+    // }
+
     while (left < right) {
         if (!isAlnum(s[left])) {
             left++
