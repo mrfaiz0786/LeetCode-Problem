@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0704-binary-search) |
 ## Stack
 |  |
 | ------- |
