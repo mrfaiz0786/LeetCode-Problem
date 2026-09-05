@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0704-binary-search) |
 ## Stack
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0042-trapping-rain-water) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
