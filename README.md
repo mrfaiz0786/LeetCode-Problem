@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0724-find-pivot-index) |
 | [2270-number-of-ways-to-split-array](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/2270-number-of-ways-to-split-array) |
 ## Hash Table
 |  |
@@ -102,5 +103,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0724-find-pivot-index) |
 | [2270-number-of-ways-to-split-array](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/2270-number-of-ways-to-split-array) |
 <!---LeetCode Topics End-->
