@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/1480-running-sum-of-1d-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/2270-number-of-ways-to-split-array) |
 ## Hash Table
 |  |
@@ -106,5 +107,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/1480-running-sum-of-1d-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/2270-number-of-ways-to-split-array) |
 <!---LeetCode Topics End-->
