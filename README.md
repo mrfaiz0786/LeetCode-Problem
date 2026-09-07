@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0796-rotate-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/2270-number-of-ways-to-split-array) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
