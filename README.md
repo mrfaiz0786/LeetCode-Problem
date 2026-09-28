@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -142,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/mrfaiz0786/LeetCode-Problem/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
